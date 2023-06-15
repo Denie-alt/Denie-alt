@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Denie-alt
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Electronics
+- 💞️ I’m looking to collaborate on GitHub
